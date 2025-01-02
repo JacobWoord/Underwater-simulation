@@ -1,7 +1,9 @@
+# Underwater-simulation App
+
+In this App i will experiment with different approaches to simulate 50k+ objects 'underwater'.
 
 
-
-# Getting Started with Create React App
+# Getting Started with Underwater-simulation App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
